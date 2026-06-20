@@ -131,7 +131,7 @@ Created the following calculated fields:
 > Add your dashboard screenshot here.
 
 ```markdown
-!Screenshot 2026-06-20 153157.png
+![Flipkart Product Return Analysis Dashboard](Images/dashboard.png)
 ```
 
 ---
