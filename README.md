@@ -186,4 +186,4 @@ The original project was developed using a dataset containing **300,000 records*
 **Yogesh Kumar**
 
 - GitHub: https://github.com/yogeshkumar70628
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: *(https://www.linkedin.com/in/yogeshkumar-data-analyst/)*
