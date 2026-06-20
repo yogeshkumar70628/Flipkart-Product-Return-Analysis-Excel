@@ -117,7 +117,9 @@ Created the following calculated columns:
 
 ## 📷 Dashboard Preview
 
-![Flipkart Dashboard](Images/dashboard.png)
+!## 📷 Dashboard Preview
+
+![Flipkart Product Return Analysis Dashboard](Images/dashboard.png)
 
 ---
 
