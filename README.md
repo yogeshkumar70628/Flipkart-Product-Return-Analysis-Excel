@@ -131,7 +131,7 @@ Created the following calculated fields:
 > Add your dashboard screenshot here.
 
 ```markdown
-![Dashboard](Images/dashboard.png)
+!Screenshot 2026-06-20 153157.png
 ```
 
 ---
